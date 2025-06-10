@@ -9,9 +9,3 @@ def factorial(n)-> int:
         return  n * factorial(n-1)
 
 
-
-def mergesoirt(arr):
-    if len(arr) > 1:
-        left_arr = arr[:len(arr)//2]
-        right_a
-
